@@ -89,10 +89,4 @@ const DesktopNav = () => {
 }
 
 const NAV_ITEMS = [
-    {
-        label: 'About',
-    },
-    {
-        label: 'Services',
-    },
 ]
