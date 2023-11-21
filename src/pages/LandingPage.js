@@ -14,12 +14,13 @@ const LandingPage = () => {
                                 bgClip='text'
                                 fontSize='5xl'
                                 fontWeight='extrabold'
-                                width={'60%'}
+                                width={'80%'}
                             >
-                                SikaSwift: Redefining Financial Services in Africa
+                                Bringing Accessible and Convenient Financial Products to Africa
                             </Text>
                             <Text width={'70%'} align={'left'} marginBottom={'6'}>
-                                With a focus on secure, swift processing and innovative lending solutions,
+                                SikaSwift aims to redefine financial services in Africa. With a focus on 
+                                secure, swift processing and innovative lending solutions,
                                 we offer a range of products including instant loans, 'Buy Now, Pay Later',
                                 and paycheck advances for both customers and businesses. Join us in shaping
                                 a more efficient financial future.
