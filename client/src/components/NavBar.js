@@ -34,7 +34,7 @@ export default function WithSubnavigation() {
                         fontFamily={'cursive'}
                         fontSize={'4xl'}
                         fontWeight={'bold'}
-                        color={useColorModeValue('green.500', 'white')}
+                        color={useColorModeValue('green.400', 'white')}
                         onClick={() => navigate('/')}
                     >
                         SikaSwift
@@ -52,32 +52,6 @@ export default function WithSubnavigation() {
                         spacing={6}
                         align={'center'}
                     >
-                        <Button 
-                            as={'a'}
-                            fontSize={'medium'}
-                            fontWeight={500}
-                            fontFamily={'sans-serif'}
-                            variant={'link'}
-                            href={'#'}
-                        >
-                            Sign In
-                        </Button>
-                        <Button
-                            as={'a'}
-                            paddingY={'6'}
-                            display={{ base: 'none', md: 'inline-flex' }}
-                            fontSize={'medium'}
-                            fontWeight={500}
-                            fontFamily={'sans-serif'}
-                            color={'white'}
-                            bg={'green.400'}
-                            href={'#'}
-                            _hover={{
-                                bg: 'green.300',
-                            }}
-                        >
-                            Sign Up
-                        </Button>
                         <ColorModeSwitcher justifySelf="flex-end" />
                     </Stack>
                 </Flex>
