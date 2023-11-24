@@ -19,11 +19,12 @@ const LandingPage = () => {
                                 Bringing Accessible and Convenient Financial Products to Africa
                             </Text>
                             <Text width={'70%'} align={'left'} marginBottom={'6'}>
-                                SikaSwift aims to redefine financial services in Africa. With a focus on 
-                                secure, swift processing and innovative lending solutions,
-                                we offer a range of products including instant loans, 'Buy Now, Pay Later',
-                                and paycheck advances for both customers and businesses. Join us in shaping
-                                a more efficient financial future.
+                                SikaSwift aims to revolutionize the financial landscape in Africa by providing 
+                                an integrated, efficient, and accessible digital financial ecosystem. We 
+                                empower individual consumers and small businesses with innovative financial 
+                                solutions that enable seamless transactions, enhance business performance, 
+                                and foster personal financial growth. Join us in shaping a more inclusive 
+                                financial future!
                             </Text>
                             <Button
                                 fontSize={'sm'}
